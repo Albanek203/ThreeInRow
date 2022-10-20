@@ -1,0 +1,15 @@
+D:\Projects\Rider\ThreeInRow\ThreeInRow\bin\Debug\net6.0\ThreeInRow.exe
+D:\Projects\Rider\ThreeInRow\ThreeInRow\bin\Debug\net6.0\ThreeInRow.deps.json
+D:\Projects\Rider\ThreeInRow\ThreeInRow\bin\Debug\net6.0\ThreeInRow.runtimeconfig.json
+D:\Projects\Rider\ThreeInRow\ThreeInRow\bin\Debug\net6.0\ThreeInRow.dll
+D:\Projects\Rider\ThreeInRow\ThreeInRow\bin\Debug\net6.0\ThreeInRow.pdb
+D:\Projects\Rider\ThreeInRow\ThreeInRow\obj\Debug\net6.0\ThreeInRow.csproj.AssemblyReference.cache
+D:\Projects\Rider\ThreeInRow\ThreeInRow\obj\Debug\net6.0\ThreeInRow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Rider\ThreeInRow\ThreeInRow\obj\Debug\net6.0\ThreeInRow.AssemblyInfoInputs.cache
+D:\Projects\Rider\ThreeInRow\ThreeInRow\obj\Debug\net6.0\ThreeInRow.AssemblyInfo.cs
+D:\Projects\Rider\ThreeInRow\ThreeInRow\obj\Debug\net6.0\ThreeInRow.csproj.CoreCompileInputs.cache
+D:\Projects\Rider\ThreeInRow\ThreeInRow\obj\Debug\net6.0\ThreeInRow.dll
+D:\Projects\Rider\ThreeInRow\ThreeInRow\obj\Debug\net6.0\refint\ThreeInRow.dll
+D:\Projects\Rider\ThreeInRow\ThreeInRow\obj\Debug\net6.0\ThreeInRow.pdb
+D:\Projects\Rider\ThreeInRow\ThreeInRow\obj\Debug\net6.0\ThreeInRow.genruntimeconfig.cache
+D:\Projects\Rider\ThreeInRow\ThreeInRow\obj\Debug\net6.0\ref\ThreeInRow.dll
